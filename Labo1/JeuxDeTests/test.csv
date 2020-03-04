@@ -1,0 +1,8 @@
+NG:../images/lena.bmp
+NG;../images/mandrill.bmp
+voila
+RGB:../images/lena.bmp
+test foireur
+NG:../images/lena.bmp
+RGB:../images/manrill.bmp
+RGB,../images/mandrill.bmp

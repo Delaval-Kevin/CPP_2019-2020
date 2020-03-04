@@ -1,0 +1,514 @@
+Demarrage du moteur
+Chargement des images
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 1
+Importation d'une imageNG avec le nom : ../images/mandrill.bmp
+Insertion d'une imageNG avec l'id : 2
+Importation d'une imageRGB avec le nom : ../images/lena.bmp
+Insertion d'une imageRGB avec l'id : 3
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 4
+Importation d'une imageRGB avec le nom : ../images/mandrill.bmp
+Insertion d'une imageRGB avec l'id : 5
+Importation de 5 image(s) a partir d'un fichier csv
+Filtre median de l'imageNG id : 2 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 6
+Filtre median de l'imageNG id : 2 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 7
+Soustraction de l'imageNG id : 7 a l'imageNG id : 6
+Insertion d'une imageNG avec l'id : 8
+Filtre median de l'imageNG id : 2 avec une taille de filtre de : 15
+Insertion d'une imageNG avec l'id : 9
+Filtre median de l'imageNG id : 2 avec une taille de filtre de : 15
+Insertion d'une imageNG avec l'id : 10
+Soustraction de l'imageNG id : 10 a l'imageNG id : 9
+Insertion d'une imageNG avec l'id : 11
+Demarrage du moteur
+Chargement des images
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Importation d'une imageNG avec le nom : ../images/joconde.bmp
+Insertion d'une imageNG avec l'id : 1
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Dilatation de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 2
+Erosion de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 3
+Soustraction de l'imageNG id : 3 a l'imageNG id : 2
+Insertion d'une imageNG avec l'id : 4
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Importation d'une imageRGB avec le nom : ../images/joconde.bmp
+Insertion d'une imageRGB avec l'id : 2
+Dilatation de l'imageRGB id : 2 avec une taille de filtre de : 3
+Insertion d'une imageRGB avec l'id : 3
+Erosion de l'imageRGB id : 2 avec une taille de filtre de : 3
+Insertion d'une imageRGB avec l'id : 4
+Soustraction de l'imageRGB id : 4 a l'imageRGB id : 3
+Insertion d'une imageRGB avec l'id : 5
+Dilatation de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 6
+Erosion de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 7
+Soustraction de l'imageNG id : 7 a l'imageNG id : 6
+Insertion d'une imageNG avec l'id : 8
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Insertion d'une imageRGB avec l'id : 7
+Insertion d'une imageRGB avec l'id : 8
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Insertion d'une imageRGB avec l'id : 7
+Insertion d'une imageRGB avec l'id : 8
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Insertion d'une imageRGB avec l'id : 7
+Insertion d'une imageRGB avec l'id : 8
+Suppression d'une imageRGB avec l'id : 7
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 9
+Importation d'une imageNG avec le nom : ../images/mandrill.bmp
+Insertion d'une imageNG avec l'id : 10
+Importation d'une imageRGB avec le nom : ../images/lena.bmp
+Insertion d'une imageRGB avec l'id : 11
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 12
+Importation d'une imageRGB avec le nom : ../images/mandrill.bmp
+Insertion d'une imageRGB avec l'id : 13
+Importation de 5 image(s) a partir d'un fichier csv
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageNG avec l'id : 5
+Insertion d'une imageNG avec l'id : 6
+Insertion d'une imageNG avec l'id : 7
+Insertion d'une imageRGB avec l'id : 8
+Insertion d'une imageRGB avec l'id : 9
+Insertion d'une imageRGB avec l'id : 10
+Insertion d'une imageRGB avec l'id : 11
+Insertion d'une imageRGB avec l'id : 12
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Importation d'une imageRGB avec le nom : ../images/mandrill.bmp
+Insertion d'une imageRGB avec l'id : 1
+Negatif de l'imageRGB id : 1
+Insertion d'une imageRGB avec l'id : 2
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 3
+Filtre moyenneur avec selection de l'imageNG id : 3 avec une taille de filtre de : 17
+Insertion d'une imageNG avec l'id : 4
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageRGB avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Dilatation de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 5
+Erosion de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 6
+Soustraction de l'imageNG id : 6 a l'imageNG id : 5
+Insertion d'une imageNG avec l'id : 7
+Negatif de l'imageNG id : 1
+Insertion d'une imageNG avec l'id : 8
+Suppression d'une imageNG avec l'id : 6
+Suppression d'une imageNG avec l'id : 5
+Seuillage de l'image id : 1 avec un seuil de : 120
+Insertion d'une imageB avec l'id : 9
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Insertion d'une imageB avec l'id : 7
+Importation d'une imageRGB avec le nom : ../images/lena.bmp
+Insertion d'une imageRGB avec l'id : 8
+Filtre moyenneur avec selection de l'imageRGB id : 8 avec une taille de filtre de : 13
+Insertion d'une imageRGB avec l'id : 9
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 10
+Importation d'une imageNG avec le nom : ../images/mandrill.bmp
+Insertion d'une imageNG avec l'id : 11
+Importation d'une imageRGB avec le nom : ../images/lena.bmp
+Insertion d'une imageRGB avec l'id : 12
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 13
+Importation d'une imageRGB avec le nom : ../images/mandrill.bmp
+Insertion d'une imageRGB avec l'id : 14
+Importation de 5 image(s) a partir d'un fichier csv
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageNG avec l'id : 5
+Insertion d'une imageNG avec l'id : 6
+Insertion d'une imageNG avec l'id : 7
+Insertion d'une imageRGB avec l'id : 8
+Insertion d'une imageRGB avec l'id : 9
+Insertion d'une imageRGB avec l'id : 10
+Insertion d'une imageRGB avec l'id : 11
+Insertion d'une imageRGB avec l'id : 12
+Insertion d'une imageRGB avec l'id : 13
+Insertion d'une imageB avec l'id : 14
+Augmentation de la luminosite de l'imageNG id : 1 de valeur : 200
+Insertion d'une imageNG avec l'id : 15
+Negatif de l'imageRGB id : 10
+Insertion d'une imageRGB avec l'id : 16
+Seuillage de l'image id : 6 avec un seuil de : 128
+Insertion d'une imageB avec l'id : 17
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageNG avec l'id : 5
+Insertion d'une imageNG avec l'id : 6
+Insertion d'une imageNG avec l'id : 7
+Insertion d'une imageNG avec l'id : 8
+Insertion d'une imageRGB avec l'id : 9
+Insertion d'une imageRGB avec l'id : 10
+Insertion d'une imageRGB avec l'id : 11
+Insertion d'une imageRGB avec l'id : 12
+Insertion d'une imageRGB avec l'id : 13
+Insertion d'une imageRGB avec l'id : 14
+Insertion d'une imageRGB avec l'id : 15
+Insertion d'une imageB avec l'id : 16
+Insertion d'une imageB avec l'id : 17
+Erosion de l'imageRGB id : 14 avec une taille de filtre de : 3
+Insertion d'une imageRGB avec l'id : 18
+Erosion de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 19
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageNG avec l'id : 4
+Insertion d'une imageNG avec l'id : 5
+Insertion d'une imageNG avec l'id : 6
+Insertion d'une imageNG avec l'id : 7
+Insertion d'une imageNG avec l'id : 8
+Insertion d'une imageNG avec l'id : 9
+Insertion d'une imageRGB avec l'id : 10
+Insertion d'une imageRGB avec l'id : 11
+Insertion d'une imageRGB avec l'id : 12
+Insertion d'une imageRGB avec l'id : 13
+Insertion d'une imageRGB avec l'id : 14
+Insertion d'une imageRGB avec l'id : 15
+Insertion d'une imageRGB avec l'id : 16
+Insertion d'une imageRGB avec l'id : 17
+Insertion d'une imageB avec l'id : 18
+Insertion d'une imageB avec l'id : 19
+Erosion de l'imageRGB id : 10 avec une taille de filtre de : 3
+Insertion d'une imageRGB avec l'id : 20
+Erosion de l'imageNG id : 3 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 21
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 1
+Importation d'une imageNG avec le nom : ../images/mandrill.bmp
+Insertion d'une imageNG avec l'id : 2
+Importation d'une imageRGB avec le nom : ../images/lena.bmp
+Insertion d'une imageRGB avec l'id : 3
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 4
+Importation d'une imageRGB avec le nom : ../images/mandrill.bmp
+Insertion d'une imageRGB avec l'id : 5
+Importation de 5 image(s) a partir d'un fichier csv
+Dilatation de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 6
+Erosion de l'imageNG id : 1 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 7
+Soustraction de l'imageNG id : 7 a l'imageNG id : 6
+Insertion d'une imageNG avec l'id : 8
+Dilatation de l'imageRGB id : 5 avec une taille de filtre de : 3
+Insertion d'une imageRGB avec l'id : 9
+Erosion de l'imageRGB id : 5 avec une taille de filtre de : 3
+Insertion d'une imageRGB avec l'id : 10
+Soustraction de l'imageRGB id : 10 a l'imageRGB id : 9
+Insertion d'une imageRGB avec l'id : 11
+Negatif de l'imageRGB id : 5
+Insertion d'une imageRGB avec l'id : 12
+Dilatation de l'imageNG id : 2 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 13
+Erosion de l'imageNG id : 2 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 14
+Soustraction de l'imageNG id : 14 a l'imageNG id : 13
+Insertion d'une imageNG avec l'id : 15
+Importation d'une imageNG avec le nom : ../images/joconde.bmp
+Insertion d'une imageNG avec l'id : 16
+Dilatation de l'imageNG id : 16 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 17
+Erosion de l'imageNG id : 16 avec une taille de filtre de : 3
+Insertion d'une imageNG avec l'id : 18
+Soustraction de l'imageNG id : 18 a l'imageNG id : 17
+Insertion d'une imageNG avec l'id : 19
+Suppression d'une imageRGB avec l'id : 12
+Suppression d'une imageRGB avec l'id : 11
+Suppression d'une imageRGB avec l'id : 10
+Suppression d'une imageNG avec l'id : 13
+Suppression d'une imageNG avec l'id : 14
+Suppression d'une imageNG avec l'id : 16
+Suppression d'une imageNG avec l'id : 17
+Suppression d'une imageNG avec l'id : 19
+Suppression d'une imageNG avec l'id : 18
+Suppression d'une imageNG avec l'id : 15
+Suppression d'une imageNG avec l'id : 8
+Suppression d'une imageNG avec l'id : 7
+Suppression d'une imageNG avec l'id : 4
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Suppression d'une imageNG avec l'id : 1
+Suppression d'une imageNG avec l'id : 2
+Suppression d'une imageNG avec l'id : 3
+Suppression d'une imageRGB avec l'id : 4
+Suppression d'une imageRGB avec l'id : 5
+Suppression d'une imageRGB avec l'id : 6
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 7
+Importation d'une imageNG avec le nom : ../images/mandrill.bmp
+Insertion d'une imageNG avec l'id : 8
+Importation d'une imageRGB avec le nom : ../images/lena.bmp
+Insertion d'une imageRGB avec l'id : 9
+Importation d'une imageNG avec le nom : ../images/lena.bmp
+Insertion d'une imageNG avec l'id : 10
+Importation d'une imageRGB avec le nom : ../images/mandrill.bmp
+Insertion d'une imageRGB avec l'id : 11
+Importation de 5 image(s) a partir d'un fichier csv
+Filtre median de l'imageNG id : 7 avec une taille de filtre de : 11
+Insertion d'une imageNG avec l'id : 12
+Filtre median de l'imageNG id : 7 avec une taille de filtre de : 55
+Insertion d'une imageNG avec l'id : 13
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Filtre moyenneur avec selection de l'imageRGB id : 5 avec une taille de filtre de : 11
+Insertion d'une imageRGB avec l'id : 7
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Insertion d'une imageRGB avec l'id : 7
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Insertion d'une imageRGB avec l'id : 7
+Filtre median de l'imageNG id : 2 avec une taille de filtre de : 11
+Insertion d'une imageNG avec l'id : 8
+Suppression d'une imageNG avec l'id : 8
+Suppression d'une imageRGB avec l'id : 7
+Dilatation de l'imageRGB id : 5 avec une taille de filtre de : 5
+Insertion d'une imageRGB avec l'id : 9
+Erosion de l'imageRGB id : 5 avec une taille de filtre de : 5
+Insertion d'une imageRGB avec l'id : 10
+Soustraction de l'imageRGB id : 10 a l'imageRGB id : 9
+Insertion d'une imageRGB avec l'id : 11
+Dilatation de l'imageNG id : 2 avec une taille de filtre de : 5
+Insertion d'une imageNG avec l'id : 12
+Erosion de l'imageNG id : 2 avec une taille de filtre de : 5
+Insertion d'une imageNG avec l'id : 13
+Soustraction de l'imageNG id : 13 a l'imageNG id : 12
+Insertion d'une imageNG avec l'id : 14
+Suppression d'une imageRGB avec l'id : 11
+Suppression d'une imageRGB avec l'id : 10
+Suppression d'une imageRGB avec l'id : 9
+Suppression d'une imageNG avec l'id : 13
+Suppression d'une imageNG avec l'id : 14
+Suppression d'une imageNG avec l'id : 12
+Negatif de l'imageRGB id : 5
+Insertion d'une imageRGB avec l'id : 15
+Negatif de l'imageNG id : 3
+Insertion d'une imageNG avec l'id : 16
+Negatif de l'imageNG id : 1
+Insertion d'une imageNG avec l'id : 17
+Suppression d'une imageNG avec l'id : 16
+Suppression d'une imageNG avec l'id : 17
+Suppression d'une imageRGB avec l'id : 15
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Sauvegerde des images
+Fermeture du moteur
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Filtre moyenneur avec selection de l'imageNG id : 1 avec une taille de filtre de : 11
+Insertion d'une imageNG avec l'id : 7
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Filtre moyenneur avec selection de l'imageNG id : 1 avec une taille de filtre de : 11
+Insertion d'une imageNG avec l'id : 7
+Filtre moyenneur avec selection de l'imageNG id : 7 avec une taille de filtre de : 7
+Insertion d'une imageNG avec l'id : 8
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Filtre moyenneur avec selection de l'imageRGB id : 6 avec une taille de filtre de : 11
+Insertion d'une imageRGB avec l'id : 7
+Suppression d'une imageRGB avec l'id : 6
+Suppression d'une imageRGB avec l'id : 7
+Demarrage du moteur
+Chargement des images
+Insertion d'une imageNG avec l'id : 1
+Insertion d'une imageNG avec l'id : 2
+Insertion d'une imageNG avec l'id : 3
+Insertion d'une imageRGB avec l'id : 4
+Insertion d'une imageRGB avec l'id : 5
+Insertion d'une imageRGB avec l'id : 6
+Filtre moyenneur avec selection de l'imageRGB id : 5 avec une taille de filtre de : 11
+Insertion d'une imageRGB avec l'id : 7
+Filtre moyenneur avec selection de l'imageRGB id : 5 avec une taille de filtre de : 11
+Insertion d'une imageRGB avec l'id : 8
+Suppression d'une imageRGB avec l'id : 8
+Suppression d'une imageRGB avec l'id : 6
+Suppression d'une imageRGB avec l'id : 7
+Sauvegerde des images
+Fermeture du moteur
